@@ -7,8 +7,15 @@
 - CISC 103 - Web Deleopment
 - CISC 106 - General Computer Science for Engineers
 
+## - Languages
+- Python
+- C
+- C++
+- Java
+- JavaScript
+- TypeScript
 
-<!---
-joeycasa/joeycasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## - Quasi-Languages
+- HTML
+- CSS
+- SQL
