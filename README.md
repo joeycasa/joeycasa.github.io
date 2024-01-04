@@ -4,8 +4,13 @@
 
 ## - Computer Science Teaching Assistant
 ### Classes
-- CISC 103 - Web Deleopment
+- CISC 103 - Introduction to Computer Science with Web Applications
 - CISC 106 - General Computer Science for Engineers
+- CISC 108 - Introduction to Computer Science I
+
+## - Mechnaical Engineering Teaching Assistant
+### Classes
+- EGGG 101 - Introduction to Engineering
 
 ## - Languages
 - Python
