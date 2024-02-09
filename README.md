@@ -25,3 +25,10 @@
 - HTML
 - CSS
 - SQL
+
+## - Software
+- TamperMonkey
+- DigitalOcean
+- Google Firebase
+- Docker
+- VirtualBox
