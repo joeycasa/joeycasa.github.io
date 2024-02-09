@@ -7,6 +7,7 @@
 - CISC 103 - Introduction to Computer Science with Web Applications
 - CISC 106 - General Computer Science for Engineers
 - CISC 108 - Introduction to Computer Science I
+- CISC 210 - Introduction to Systems Programming
 
 ## - Mechnaical Engineering Teaching Assistant
 ### Classes
