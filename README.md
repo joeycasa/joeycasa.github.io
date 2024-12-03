@@ -1,6 +1,6 @@
 # Joseph Casagrande, Practical Artist
 ## - Student at the University of Delaware
-- B.S. in Computer Science, concentration in Cyber Security
+- B.S. in Computer Science, custom concentration in Cyber Security/AI
 
 ## - Computer Science Teaching Assistant
 ### Classes
