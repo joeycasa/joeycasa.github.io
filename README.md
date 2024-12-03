@@ -20,11 +20,13 @@
 - Java
 - JavaScript
 - TypeScript
+- Kotlin
 
 ## - Quasi-Languages
 - HTML
 - CSS
 - SQL
+- XML
 
 ## - Software
 - TamperMonkey
@@ -32,3 +34,4 @@
 - Google Firebase
 - Docker
 - VirtualBox
+- GitHub
