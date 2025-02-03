@@ -1,37 +1,32 @@
-# Joseph Casagrande, Practical Artist
-## - Student at the University of Delaware
-- B.S. in Computer Science, custom concentration in Cyber Security/AI
+# Joseph Casagrande – Practical Artist 🎨💻  
 
-## - Computer Science Teaching Assistant
-### Classes
-- CISC 103 - Introduction to Computer Science with Web Applications
-- CISC 106 - General Computer Science for Engineers
-- CISC 108 - Introduction to Computer Science I
-- CISC 210 - Introduction to Systems Programming
+**🎓 Student | University of Delaware**  
+**📚 B.S. in Computer Science** – Custom Concentration: Cyber Security & AI  
 
-## - Mechnaical Engineering Teaching Assistant
-### Classes
-- EGGG 101 - Introduction to Engineering
+---  
 
-## - Languages
-- Python
-- C
-- C++
-- Java
-- JavaScript
-- TypeScript
-- Kotlin
+## 🏩 Teaching Experience  
 
-## - Quasi-Languages
-- HTML
-- CSS
-- SQL
-- XML
+### 💻 Computer Science Teaching Assistant  
+- **CISC 103** – Intro to Computer Science with Web Applications  
+- **CISC 106** – General Computer Science for Engineers  
+- **CISC 108** – Introduction to Computer Science I  
+- **CISC 210** – Introduction to Systems Programming  
 
-## - Software
-- TamperMonkey
-- DigitalOcean
-- Google Firebase
-- Docker
-- VirtualBox
-- GitHub
+### 🔧 Mechanical Engineering Teaching Assistant  
+- **EGGG 101** – Introduction to Engineering  
+
+---  
+
+## 💡 Languages & Technologies  
+
+### 🔥 Programming Languages  
+- **Python** | **C** | **C++** | **Java** | **JavaScript** | **TypeScript** | **Kotlin**  
+
+### 🌐 Quasi-Languages  
+- **HTML** | **CSS** | **SQL** | **XML**  
+
+### 🛠️ Software & Tools  
+- **TamperMonkey** | **DigitalOcean** | **Google Firebase** | **Docker** | **VirtualBox** | **GitHub**  
+
+---
