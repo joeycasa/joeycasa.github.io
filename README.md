@@ -1,7 +1,7 @@
-# Joseph Casagrande – Practical Artist 🎨💻  
+# Practical Artist 🎨💻  
 
-**🎓 Student | University of Delaware**  
-**📚 B.S. in Computer Science (Cum Laude)** – Custom Concentration: Cyber Security & AI | GPA: 3.835  
+**🎓 Student – University of Delaware**  
+**📚 B.S. in Computer Science (Cum Laude)** – Custom Concentration: Cyber Security & AI – GPA: 3.835  
 
 ---  
 
